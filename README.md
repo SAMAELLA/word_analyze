@@ -1,5 +1,4 @@
-![Uploading 人間失格.png…]()
-
+<img width="1415" height="759" alt="人間失格" src="https://github.com/user-attachments/assets/7d8c2bae-38ef-45a0-a273-6de878623cf0" />
 
 # word_analyze
 
